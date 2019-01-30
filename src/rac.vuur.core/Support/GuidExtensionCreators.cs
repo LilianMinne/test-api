@@ -11,6 +11,7 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 
+//Toevoegen van wat commentaar
 namespace RAC.Vuur.Support
 {
     public static class GuidExtensions
